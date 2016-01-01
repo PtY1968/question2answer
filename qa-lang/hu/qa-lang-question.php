@@ -21,11 +21,11 @@
 */
 
 	return array(
-		'1_answer_title' => '1 Answer',
-		'a_convert_to_c' => 'Convert this answer into a comment',
+		'1_answer_title' => '1 válasz',
+		'a_convert_to_c' => 'Válasz átalakítása hozzászólássá',
 		'a_convert_to_c_on' => 'Convert this answer into a comment on:',
-		'a_convert_warn' => 'Warning: This conversion cannot be reversed.',
-		'a_convert_warn_cs' => 'Warning: This conversion cannot be reversed and will also move this answer\'s comments.',
+		'a_convert_warn' => 'Figyelem! Ez a módosítás nem visszavonható!',
+		'a_convert_warn_cs' => 'Figyelem! Ez a módosítás nem visszavonható és érinti a válaszra érkezett hozzászólásokat is!',
 		'a_notify_email' => 'Email me at this address if my answer is selected or commented on:',
 		'a_notify_label' => 'Email me if my answer is selected or commented on',
 		'a_notify_x_label' => 'Email me (^) if my answer is selected or commented on',
@@ -53,7 +53,7 @@
 		'ask_must_confirm' => 'Please ^5confirm your email address^6 to ask a question.',
 		'ask_must_login' => 'Please ^1log in^2 or ^3register^4 to ask a question.',
 		'ask_same_q' => 'Before proceeding, please check your question was not asked already:',
-		'ask_title' => 'Ask a question',
+		'ask_title' => 'Kérdezz',
 		'c_notify_email' => 'Email me at this address if a comment is added after mine:',
 		'c_notify_label' => 'Email me if a comment is added after mine',
 		'c_notify_x_label' => 'Email me (^) if a comment is added after mine',

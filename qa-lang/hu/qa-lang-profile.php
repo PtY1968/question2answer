@@ -30,7 +30,7 @@
 		'answers_by_x' => 'Answers by ^',
 		'bonus_points' => 'Bonus points:',
 		'comments' => 'Comments:',
-		'delete_pm_popup' => 'Delete this private message',
+		'delete_pm_popup' => 'Privát üzenet törlése',
 		'delete_wall_post_popup' => 'Delete this wall post',
 		'extra_privileges' => 'Extra privileges:',
 		'gave_out' => 'Gave out:',
